@@ -1,0 +1,110 @@
+#header 
+{
+	height:10vh;
+	margin: 0px auto;
+	position: sticky;
+	top: 0px;
+	background: #93e6f9;
+}
+
+#header > div
+{
+	display: inline-block;
+	height:5vh;
+	padding: 2.5vh 0vh;
+	text-align: right;
+	color:blue;
+	font-size: 3vh;
+	margin:0 0.7%;
+}
+
+#Search
+{
+	width: 30%;
+}
+
+#logo
+{
+	width:5%;
+	background-color:white;
+}
+
+#logo > img
+{
+	width:100%;
+	height: 200%;
+	border-radius: 100%;
+}
+#MyProfile  
+{
+	width:15%;
+	overflow:hidden;
+}
+
+#FindFriends
+{
+	width:15%;
+}
+
+#Settings
+{
+	width: 13%;
+}
+
+#SignOut
+{
+	width:12%;
+}
+
+.HeadLinks{
+	text-decoration: none;
+	color: black;
+}
+
+#sidebar
+{
+	display: inline-block;
+	width:20%;
+	height: 89vh;
+	background-color: #FFE5B4;
+	position: sticky;
+	top: 10vh;
+}
+
+#sidebar > a
+{
+	text-decoration: none;
+	display: block;
+	width:80%;
+	margin: 30px auto;
+	padding: 5px;
+	color:  #8FBCDB;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 20px;
+}
+
+#sidebar a:hover{
+	color: #CCFFCC;
+	background-color: #0099CC;
+}
+
+.post
+{
+	display: inline-block;
+	width:50%;
+	//background-color: white;
+}
+
+
+.news
+{
+	display: inline-block;
+	width:29%;
+	//background-color: white;
+	height: 1000px;
+}
+
+body{
+	background: #CCFFCC;
+}
