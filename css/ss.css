@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(to left, #00C9FF 0%, #92FE9D 100%);
+    background-image: url('../images/beautifulsea.jpg');
 }
 
 
@@ -65,7 +66,7 @@ input{
     display: block;
     float: none;
     margin: 10px auto;
-    width: 4em;
+    width: 6em;
     padding-top: 20px;
     text-decoration: none;
     font-size: 25px;
